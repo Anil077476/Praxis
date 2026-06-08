@@ -168,6 +168,6 @@ For questions or issues: [Open an issue](https://github.com/Anil077476/Praxis/is
 
 ---
 
-**Made with ❤️ for learning and understanding GitHub mechanics**
+
 
 *Last Updated: June 8, 2026*
